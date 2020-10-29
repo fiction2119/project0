@@ -1,0 +1,61 @@
+.center {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#links {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.adv_bar {
+  border-radius: 900px;
+  border-width: 1px;
+  border-color: ghostwhite;
+  width: 500px;
+  height: 35px;
+}
+
+#search_bar {
+  border-radius: 900px;
+  border-width: 1px;
+  border-color: ghostwhite;
+  width: 500px;
+  height: 35px;
+}
+
+#search_button {
+  border: none;
+  position: relative;
+  margin-left: 23%;
+  margin-top: 7%;
+  height: 40px;
+  width: 9em;
+}
+
+#lucky_button {
+  border: none;
+  position: relative;
+  margin-left: 3%;
+  margin-top: 7%;
+  height: 40px;
+  width: 9em;
+}
+
+#logo {
+  position: relative;
+  margin-left: 39%;
+  margin-top: 9.5%;
+
+}
+
+#language {
+  position: relative;
+  top: 80px;
+  font-size: 15px;
+}
